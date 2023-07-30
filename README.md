@@ -3,7 +3,7 @@
 **Ryzhakov-NET/Ryzhakov-NET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ryzhakov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">.NET developer from Russia 🇷🇺</h3>
+<h3 align="center">.NET developer from Russia 🇷🇺 
 
  ### :hammer_and_wrench: Languages and Tools :
 
@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Net" alt="Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Core" alt="Core" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svgalui-original.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
+  <img src="https://https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
  
 </div>
->
+</h3>
