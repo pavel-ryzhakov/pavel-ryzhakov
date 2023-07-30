@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://giphy.com/gifs/metal-heavy-bass-nKQs7fb97dK4E.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/metal-heavy-bass-nKQs7fb97dK4E" width="600" height="300"/>
 </div>
 
 
