@@ -4,10 +4,10 @@
 
 <h2 align="center">.NET developer from Russia 🇷🇺 <h2>
 
-  :hammer_and_wrench: Languages and Tools :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavel-ryzhakov&theme=dark&border_radius=15&locale=ru&card_width=400&ring=FF5F00&dates=B1EBE9&stroke=EB545400&border=EB545400)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavel-ryzhakov&theme=dark&border_radius=15&locale=ru&card_width=400&ring=FF5F00&dates=B1EBE9&stroke=EB545400&border=EB545400)](https://git.io/streak-stats)  
+  <img src="https://www.svgrepo.com/show/530245/badge.svg" width="40" height="40"/>My stack :&nbsp;;  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
