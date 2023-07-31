@@ -23,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavel-ryzhakov&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="pavel-ryzhakov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavel-ryzhakov&show_icons=true&locale=en" alt="pavel-ryzhakov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavel-ryzhakov&" alt="pavel-ryzhakov" /></p>
+
