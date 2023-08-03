@@ -1,6 +1,6 @@
 
-  
-<p align="center"><img src="https://uploads.spiritfanfiction.com/historias/capitulos/201611/o-principe-e-a-executiva-6959843-081120161754.gif"/></h1>
+
+<p align="left"><img src="https://www.publicdomainpictures.net/pictures/200000/velka/plain-black-background.jpg" width="1000"  height="200"/></h1>
 <h4 >Hi there, I'm <a href="https://https://github.com/pavel-ryzhakov/" target="_blank">Ryzhakov</a>. Im .NET developer from Russia!
 
 
