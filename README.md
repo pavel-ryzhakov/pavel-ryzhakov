@@ -1,7 +1,8 @@
+<p align="center">
+  <img src="https://github.com/pavel-ryzhakov/pavel-ryzhakov/blob/main/Git_Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 Good evening. My name is **Pavel** 
-
-
 I started programming in C#, and am now actively studying web design and frondend.
 I develop various projects in ___.NET___, experimenting with patterns and frameworks. My plans include creating training courses on ___.NET___ technology and game development using the ___Unity___ engine. 
 ***
@@ -41,15 +42,6 @@ I develop various projects in ___.NET___, experimenting with patterns and framew
    
 
   ---
-
-
-   
-
-
-  
- 
-<div>  <img src="https://www.publicdomainpictures.net/pictures/200000/velka/plain-black-background.jpg" width="1000"  height="200"/></div>
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavel-ryzhakov&theme=dark&border_radius=15&locale=ru&card_width=400&ring=FF5F00&dates=B1EBE9&stroke=EB545400&border=EB545400)]() 
 
