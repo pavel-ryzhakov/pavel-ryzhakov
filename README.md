@@ -2,10 +2,14 @@
   <img src="https://github.com/pavel-ryzhakov/pavel-ryzhakov/blob/main/Git_Banner2.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Good evening. My name is **Pavel** 
+Good evening. My name is **Pavel**
+
 I started programming in C#, and am now actively studying web design and frondend.
 I develop various projects in ___.NET___, experimenting with patterns and frameworks. My plans include creating training courses on ___.NET___ technology and game development using the ___Unity___ engine. 
+
 ***
+
+### My stack:
 
 <details>
   <summary><b>Frameworks</b></summary>
@@ -37,6 +41,19 @@ I develop various projects in ___.NET___, experimenting with patterns and framew
       <li>TypeScript</li>
       <li>HTML5 / CSS3</li>
       <li>SQL</li>
+    </ul>
+</details>
+
+<details>
+ <summary><b>Tools🔧</b></summary>
+  <p>
+    <ul>
+      <li>MS Visual Studio 2022</li>
+      <li>Visual Studio Code</li>
+      <li>Swagger</li>
+      <li>Postman</li>
+      <li>SASS</li>
+      <li>Resharper</li>
     </ul>
 </details>
    
