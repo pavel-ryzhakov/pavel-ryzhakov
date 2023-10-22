@@ -43,9 +43,7 @@ I develop various projects in ___.NET___, experimenting with patterns and framew
 
   ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavel-ryzhakov&theme=dark&border_radius=15&locale=ru&card_width=400&ring=FF5F00&dates=B1EBE9&stroke=EB545400&border=EB545400)]() 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavel-ryzhakov&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="pavel-ryzhakov" /></p>
 
 
 
