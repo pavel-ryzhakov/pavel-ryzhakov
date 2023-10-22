@@ -2,7 +2,7 @@
 Good evening. My name is **Pavel** 
 
 
-I started programming in C#, and am now actively studying web design and **typing**.
+I started programming in C#, and am now actively studying web design and frondend.
 I develop various projects in .NET, experimenting with patterns and frameworks. My plans include creating training courses on .NET technology and game development using the Unity engine. 
 ***
 My stack:
@@ -23,7 +23,8 @@ My stack:
   - HTML5 / CSS3
   - SQL
 
-    
+
+   
 
 
   
