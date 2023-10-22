@@ -3,25 +3,44 @@ Good evening. My name is **Pavel**
 
 
 I started programming in C#, and am now actively studying web design and frondend.
-I develop various projects in .NET, experimenting with patterns and frameworks. My plans include creating training courses on .NET technology and game development using the Unity engine. 
+I develop various projects in ___.NET___, experimenting with patterns and frameworks. My plans include creating training courses on ___.NET___ technology and game development using the ___Unity___ engine. 
 ***
-My stack:
 
-- **frameworks** 
-  - .NET Core
-  - Entity Framework Core
-  - Angular
-  - React
-- **databases**
-    - PostgreSQL
-    - MSSQL
-    - MongoDB
-- **languages**
-  - С#
-  - JavaScript
-  - TypeScript
-  - HTML5 / CSS3
-  - SQL
+<details>
+  <summary><b>Frameworks</b></summary>
+    <p>
+    <ul>
+      <li>.NET Core</li>
+      <li>Entity Framework Core</li>
+      <li>Angular</li>
+      <li>React</li>
+    </ul>
+</details>
+
+<details>
+    <summary><b>Databases</b></summary>
+      <p>
+    <ul>
+        <li>PostgreSQL</li>
+        <li>MSSQL</li>
+        <li>MongoDB</li>
+    </ul>
+</details>
+
+<details>
+  <summary><b>Languages</b></summary>
+  <p>
+    <ul>
+      <li>С#</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>HTML5 / CSS3</li>
+      <li>SQL</li>
+    </ul>
+</details>
+   
+
+  ---
 
 
    
