@@ -53,7 +53,7 @@ I develop various projects in ___.NET___, experimenting with patterns and framew
       <li>Swagger</li>
       <li>Postman</li>
       <li>SASS</li>
-      <li>Resharper</li>
+      <li>ReSharper</li>
     </ul>
 </details>
    
