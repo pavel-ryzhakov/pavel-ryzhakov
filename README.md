@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pavel-ryzhakov/pavel-ryzhakov/blob/main/Git_Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/pavel-ryzhakov/pavel-ryzhakov/blob/main/Git.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 Good evening. My name is **Pavel** 
