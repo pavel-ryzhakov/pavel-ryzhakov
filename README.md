@@ -4,8 +4,8 @@
 
 Good evening. My name is **Pavel**  
 
-I started programming in C#, and am now actively studying web design and frondend.
-I develop various projects in ___.NET___, experimenting with patterns and frameworks. My plans include creating training courses on ___.NET___ technology and game development using the ___Unity___ engine. 
+
+Develop various projects in ___.NET___, experimenting with patterns and frameworks. My plans include creating training courses on ___.NET___ technology and game development using the ___Unity___ engine. 
 
 ***
 
